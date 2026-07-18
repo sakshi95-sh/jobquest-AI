@@ -1,7 +1,5 @@
 # JobQuest-AI
 
-## PROJECT TITLE
-
 JobQuest AI: An AI-powered job search platform that parses resumes, scores job fit semantically, and auto-generates tailored cover letters using RAG.
 
 ## Problem / Why this exists
